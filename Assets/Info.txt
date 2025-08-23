@@ -1,0 +1,7 @@
+Having a variable (x) that switch between 1 & 2 which is multiple to increment.
+
+time += increment*x makes a sound like string/sitar like instrument.
+
+To do:
+1. Record does not change speed on fly
+2. Recorded keys should have first blood.
